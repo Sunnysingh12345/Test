@@ -5,7 +5,7 @@
   <artifactId>Disaster</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>DevOpsProject Maven Webapp</name>
+  <name>Disaster Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
@@ -24,6 +24,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>DevOpsProject</finalName>
+    <finalName>Disaster</finalName>
   </build>
 </project>
